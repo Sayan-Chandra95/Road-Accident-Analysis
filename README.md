@@ -1,65 +1,88 @@
-# Road-Accident-Analysis
+**Road Accident Analysis — Excel Data Analytics Project**
 
-**Project Overview**
+**Project Summary**
 
-This project analyzes road accident data using Microsoft Excel to identify key trends, patterns, and risk factors that influence accident frequency and severity. The goal is to transform raw accident data into meaningful insights that support safety decisions and resource planning.
+This project transforms raw road-accident data into clear, actionable insights using Microsoft Excel.
+It focuses on identifying accident patterns, high-risk zones, and key factors that influence accident severity—supporting data-driven safety decisions.
 
-**Key Objectives**
+**Project Objectives**
 
-Understand accident trends over time (daily/weekly/monthly patterns)
+Analyze accident trends across time (hourly, daily, monthly).
 
-Identify high-risk locations, vehicle types, and accident causes
+Identify high-risk locations, accident causes, and vehicle types.
 
-Analyze severity levels and contributing factors
+Study severity levels (fatal, serious, minor injuries) and contributing factors.
 
-Present findings in easy-to-read charts and dashboards
+Present insights through a clean, interactive Excel dashboard.
 
-**Tools & Techniques Used (Excel Only)**
+Demonstrate end-to-end data analysis using Excel only.
+
+ **Skills, Tools & Techniques Used**
+ 
+Excel Skills
+
+Advanced data cleaning
+
+Pivot Tables & Pivot Charts
+
+Slicers and interactive filters
+
+Conditional formatting & heatmaps
+
+Trend analysis & KPI tracking
 
 Data Cleaning
 
 Removed duplicates
 
-Handled missing values
+Fixed formatting errors
 
-Standardized date/time formats
+Standardized dates and categories
+
+Treated missing values
 
 Categorized accident types
 
 Data Analysis
 
-Pivot Tables for grouping & aggregating data
+Frequency & distribution analysis
 
-Pivot Charts for visual insights
+Time-series trend identification
 
-Slicers & Filters for interactive exploration
+Location-wise severity mapping
 
-**Dashboard Creation**
+Vehicle-type and cause breakdown
 
-KPI tiles (Total Accidents, Fatal Cases, Minor Injuries)
+Comparative performance insights
 
-Trend charts: line graphs showing accident frequency
+ **Dashboard Highlights**
 
-Bar & Pie charts for vehicle type, location, cause distribution
+KPI Cards: Total accidents, fatal cases, serious/ minor injuries
 
-Heat-maps for identifying high-risk periods
+Trend Analysis: Hourly, daily, and monthly accident patterns
 
-**Key Insights (Example – adjust based on your dataset)**
+Distribution Charts: Vehicle type, accident cause, road condition
 
-Peak accidents occur during evening hours and weekends
+Location Heatmap: Identifying critical accident-prone zones
 
-Two-wheelers have the highest involvement in accidents
+Interactive Filters: Explore insights by city, vehicle type, severity, weather, etc.
 
-Specific intersections or regions show consistently high accident rates
+**Key Insights**
 
-Seasonal variations indicate higher accidents during rainy months
+Accidents peak during evening hours and weekends.
 
-**Outcome / Impact**
+Two-wheelers contribute the highest number of road accidents.
 
-Converted raw accident records into actionable insights
+Certain junctions consistently appear as high-risk accident hotspots.
 
-Built an Excel dashboard for quick decision-making
+Accident frequency increases during rainy months due to poor visibility and road conditions.
 
-Demonstrated strong analytical ability using only Excel
+ **Project Impact**
 
-Showcased real-world data exploration aligned with Data Analyst roles
+Converted an unstructured dataset into meaningful, business-ready insights.
+
+Created a fully interactive Excel dashboard for stakeholders to explore data quickly.
+
+Demonstrates strong analytical capability using widely-used tools (Excel).
+
+Showcases real-world problem solving aligned with Data Analyst job roles.

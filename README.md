@@ -1,88 +1,162 @@
-**Road Accident Analysis — Excel Data Analytics Project**
+## 📊 Dashboard Preview
 
-**Project Summary**
+![Dashboard](DashBoard.jpg)
 
-This project transforms raw road-accident data into clear, actionable insights using Microsoft Excel.
-It focuses on identifying accident patterns, high-risk zones, and key factors that influence accident severity—supporting data-driven safety decisions.
+# 🚦 UK Road Accident Analysis Dashboard (2021)
 
-**Project Objectives**
+## 📌 Project Overview
 
-Analyze accident trends across time (hourly, daily, monthly).
+This project analyzes UK Road Accident Data (2021) to identify patterns in accident severity, road conditions, vehicle involvement, and environmental factors.
 
-Identify high-risk locations, accident causes, and vehicle types.
+Using Microsoft Excel (Pivot Tables, KPI Cards, and Slicers), the raw dataset was transformed into an interactive dashboard that highlights key safety trends and risk indicators.
 
-Study severity levels (fatal, serious, minor injuries) and contributing factors.
+📊 Total Casualties Analyzed: **417,883**
 
-Present insights through a clean, interactive Excel dashboard.
+---
 
-Demonstrate end-to-end data analysis using Excel only.
+## 📊 Dashboard Preview
 
- **Skills, Tools & Techniques Used**
- 
-Excel Skills
+![Road Accident Dashboard](dashboard.png)
 
-Advanced data cleaning
+---
 
-Pivot Tables & Pivot Charts
+## 🎯 Business Objectives
 
-Slicers and interactive filters
+- Measure total accident impact and severity distribution  
+- Identify high-risk road types and surface conditions  
+- Compare Urban vs Rural accident patterns  
+- Analyze impact of lighting and weather conditions  
+- Understand vehicle type involvement  
+- Detect monthly casualty trends  
 
-Conditional formatting & heatmaps
+---
 
-Trend analysis & KPI tracking
+## 📈 Key Performance Indicators (KPIs)
 
-Data Cleaning
+- **Total Casualties:** 417,883  
+- **Fatal:** 7,135  
+- **Serious:** 59,312  
+- **Slight:** 351,436  
 
-Removed duplicates
+🔎 Insight:  
+Over 84% of casualties are classified as *Slight*, but serious and fatal cases remain critical from a public safety perspective.
 
-Fixed formatting errors
+---
 
-Standardized dates and categories
+## 🚗 Casualties by Road Type
 
-Treated missing values
+- Single Carriageway – 309.7K  
+- Dual Carriageway – 67.4K  
+- Roundabout – 26.8K  
+- One Way Street – 7.4K  
+- Slip Road – 4.7K  
 
-Categorized accident types
+💡 Insight:  
+Single carriageways account for nearly 74% of total casualties, making them the highest-risk road type.
 
-Data Analysis
+---
 
-Frequency & distribution analysis
+## 🌧 Casualties by Road Surface Condition
 
-Time-series trend identification
+- Dry – 279,445  
+- Wet – 115,261  
+- Snow/Ice – 22,781  
 
-Location-wise severity mapping
+💡 Insight:  
+Most accidents occur during dry conditions, indicating traffic density and driver behavior are major contributing factors.
 
-Vehicle-type and cause breakdown
+---
 
-Comparative performance insights
+## 🌆 Urban vs Rural Analysis
 
- **Dashboard Highlights**
+- Urban – 255.9K  
+- Rural – 162.0K  
 
-KPI Cards: Total accidents, fatal cases, serious/ minor injuries
+💡 Insight:  
+Urban areas experience more accidents due to higher traffic volume, while rural accidents tend to be more severe.
 
-Trend Analysis: Hourly, daily, and monthly accident patterns
+---
 
-Distribution Charts: Vehicle type, accident cause, road condition
+## 🌙 Light Condition Impact
 
-Location Heatmap: Identifying critical accident-prone zones
+- Daylight – 305.0K  
+- Darkness – 112.9K  
 
-Interactive Filters: Explore insights by city, vehicle type, severity, weather, etc.
+💡 Insight:  
+The majority of accidents occur during daylight hours, emphasizing traffic flow impact over visibility.
 
-**Key Insights**
+---
 
-Accidents peak during evening hours and weekends.
+## 📅 Monthly Trend (2021)
 
-Two-wheelers contribute the highest number of road accidents.
+Highest Casualty Months:
+- November – 20,975  
+- October – 20,109  
+- July – 19,682  
 
-Certain junctions consistently appear as high-risk accident hotspots.
+Lowest Month:
+- February – 14,648  
 
-Accident frequency increases during rainy months due to poor visibility and road conditions.
+💡 Insight:  
+Accident frequency peaks during late autumn and summer months, possibly due to seasonal traffic variations.
 
- **Project Impact**
+---
 
-Converted an unstructured dataset into meaningful, business-ready insights.
+## 🚘 Casualties by Vehicle Type
 
-Created a fully interactive Excel dashboard for stakeholders to explore data quickly.
+- Cars – 333,485  
+- Vans – 33,472  
+- Bikes – 33,672  
+- Bus – 12,798  
+- Agricultural – 1,032  
 
-Demonstrates strong analytical capability using widely-used tools (Excel).
+💡 Insight:  
+Cars contribute to nearly 80% of total casualties, making them the primary focus area for road safety improvements.
 
-Showcases real-world problem solving aligned with Data Analyst job roles.
+---
+
+## 🛠 Tools & Techniques Used
+
+- Microsoft Excel (Pivot Tables, KPI Cards, Slicers)  
+- Data Cleaning & Transformation  
+- Aggregation & Comparative Analysis  
+- Trend Analysis  
+- Dashboard Design & Data Storytelling  
+
+---
+
+## 💼 Business Impact
+
+This analysis can support:
+
+- Government road safety strategy development  
+- Insurance risk modeling  
+- Traffic enforcement allocation  
+- Urban infrastructure redesign  
+- Speed regulation policy decisions  
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- KPI Development  
+- Dashboard Design  
+- Analytical Thinking  
+- Business Insight Communication  
+
+---
+
+## 🚀 Future Enhancements
+
+- Power BI interactive dashboard version  
+- Geographic heatmap using latitude & longitude  
+- Predictive modeling for accident severity  
+- Risk scoring model by road type  
+
+---
+
+## 👨‍💻 Project Summary
+
+This project demonstrates the ability to transform raw accident data into meaningful business insights through structured analysis and dashboard visualization. It highlights strong analytical thinking and data storytelling skills applicable to real-world decision-making scenarios.

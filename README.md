@@ -2,7 +2,7 @@
 
 ![Dashboard](DashBoard.jpg)
 
-# 🚦 UK Road Accident Analysis Dashboard (2021)
+# 🚦 Road Accident Analysis Dashboard 
 
 ## 📌 Project Overview
 
@@ -11,12 +11,6 @@ This project analyzes UK Road Accident Data (2021) to identify patterns in accid
 Using Microsoft Excel (Pivot Tables, KPI Cards, and Slicers), the raw dataset was transformed into an interactive dashboard that highlights key safety trends and risk indicators.
 
 📊 Total Casualties Analyzed: **417,883**
-
----
-
-## 📊 Dashboard Preview
-
-![Road Accident Dashboard](dashboard.png)
 
 ---
 
